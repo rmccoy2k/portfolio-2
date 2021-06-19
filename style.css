@@ -414,7 +414,7 @@ html {
   overflow: hidden;
   border-radius: 50%;
   transition: width 0.2s, height 0.2s;
-  border: 0.7rem double #fff;
+  /* border: 0.7rem double #fff; */
 }
 
 .main-circle:hover {
@@ -423,7 +423,7 @@ html {
 }
 
 .main-circle img {
-  mix-blend-mode: color-dodge;
+  /* mix-blend-mode: color-dodge; */
   position: relative;
   top: 0;
   left: 0;

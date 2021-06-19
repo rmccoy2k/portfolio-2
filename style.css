@@ -418,8 +418,8 @@ html {
 }
 
 .main-circle:hover {
-  width: 75rem;
-  height: 75rem;
+  width: 80rem;
+  height: 80rem;
 }
 
 .main-circle img {
@@ -528,7 +528,7 @@ html {
   display: flex;
   justify-content: center;
   position: relative;
-  border: 0.2rem dotted #fff /* #9b0e0e */;
+  border: 0.2rem dotted #fff; /* #9b0e0e */
   border-radius: 0.5rem;
   cursor: pointer;
   perspective: 20rem;
